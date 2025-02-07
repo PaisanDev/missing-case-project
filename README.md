@@ -14,6 +14,13 @@ pnpm dev
 bun dev
 ```
 
+In case of using google map
+you must provide google api key into the project .env
+
+In case of using database
+you must provide Postgsql database url the project .env
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
